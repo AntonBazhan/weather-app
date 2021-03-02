@@ -44,7 +44,7 @@
         {
           "id": 800,
           "main": "Clear",
-          "description": "clear sky",
+          "description": "ясно",
           "icon": "01d"
         }
       ],
@@ -74,7 +74,7 @@
         {
           "id": 500,
           "main": "Rain",
-          "description": "light rain",
+          "description": "невеликий дощ",
           "icon": "10d"
         }
       ],
@@ -105,8 +105,8 @@
         {
           "id": 501,
           "main": "Rain",
-          "description": "moderate rain",
-          "icon": "10d"
+          "description": "помірний дощ",
+          "icon": "02d"
         }
       ],
       "clouds": 100,
@@ -136,8 +136,8 @@
         {
           "id": 500,
           "main": "Rain",
-          "description": "light rain",
-          "icon": "10d"
+          "description": "невеликий дощ",
+          "icon": "09d"
         }
       ],
       "clouds": 84,
@@ -172,8 +172,8 @@
         {
           "id": 501,
           "main": "Rain",
-          "description": "moderate rain",
-          "icon": "10d"
+          "description": "помірний дощ",
+          "icon": "04d"
         }
       ],
       "clouds": 100,
@@ -203,7 +203,7 @@
         {
           "id": 502,
           "main": "Rain",
-          "description": "heavy intensity rain",
+          "description": "злива",
           "icon": "10d"
         }
       ],
@@ -234,45 +234,15 @@
         {
           "id": 501,
           "main": "Rain",
-          "description": "moderate rain",
-          "icon": "10d"
+          "description": "помірний дощ",
+          "icon": "11d"
         }
       ],
       "clouds": 100,
       "pop": 1,
       "rain": 36.52,
       "uvi": 4
-    },
-    {
-      "dt": 1614708000,
-      "sunrise": 1614688983,
-      "sunset": 1614730424,
-      "temp": {
-        "day": 10.83,
-        "min": 9.78,
-        "max": 12.5,
-        "night": 12.5,
-        "eve": 11.88,
-        "morn": 10.54
-      },
-      "feels_like": { "day": 8.23, "night": 11.06, "eve": 9.81, "morn": 8.13 },
-      "pressure": 1022,
-      "humidity": 97,
-      "dew_point": 10.38,
-      "wind_speed": 3.92,
-      "wind_deg": 88,
-      "weather": [
-        {
-          "id": 501,
-          "main": "Rain",
-          "description": "moderate rain",
-          "icon": "10d"
-        }
-      ],
-      "clouds": 100,
-      "pop": 1,
-      "rain": 18.25,
-      "uvi": 4
     }
+    
   ]
 }
